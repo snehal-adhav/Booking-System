@@ -1,0 +1,23 @@
+.details{
+    text-align: left;
+    color: blue;
+    text-decoration: underline;
+  
+  }
+  .info{
+    text-align: left;
+  }
+  .info1{
+    margin-right:100px;
+  }
+  #vital{
+    
+   margin: 45px;
+  
+  }
+  #reset{
+    float: right;
+  }
+  #submit{
+    float: left;
+  }
